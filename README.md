@@ -12,7 +12,7 @@ This project focuses on building an interactive Sales Analytics Dashboard to pro
   - `config.py`: Manages styling configurations for tabs and charts.
   - `tabs_content.py`: Defines the content of each dashboard tab, including metrics, graphs, and documentation.
   - `utils.py`: Provides helper functions for data loading, graph generation, and component creation.
-  - `app.py`: Runs the Dash application, managing layout, tabs, and callbacks.
+- **`app.py`**: Runs the Dash application, managing layout, tabs, and callbacks.
 - **`requirements.txt`**: Lists the dependencies required to run the dashboard.
 - **`README.md`**: This file, offering an overview of the project and usage instructions.
 
