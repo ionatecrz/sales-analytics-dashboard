@@ -6,7 +6,7 @@ This project focuses on building an interactive Sales Analytics Dashboard to pro
 
 ## Repository Contents
 
-- **`data/`**: Contains the sales datasets (`sales_1.csv` and `sales_2.csv`) used for analysis and visualization.
+- **`data/`**: Contains the sales datasets used for analysis and visualization.
 - **`notebooks/`**: Includes the notebook `sales_dashboard.ipynb`, which documents the development process and initial data exploration.
 - **`scripts/`**:
   - `config.py`: Manages styling configurations for tabs and charts.
