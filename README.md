@@ -37,6 +37,7 @@ This project focuses on building an interactive Sales Analytics Dashboard to pro
    ```
 3. **Run the application**:
    - Execute the `app.py` script:
+     
      ```bash
      python scripts/app.py
      ```
