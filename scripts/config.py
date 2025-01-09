@@ -1,4 +1,3 @@
-# config.py
 import plotly.graph_objects as go
 
 tabs_styles = {
