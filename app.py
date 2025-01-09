@@ -7,7 +7,7 @@ from scripts.tabs_content import tab_1_content, tab_2_content, tab_3_content, ta
 from scripts.utils import load_data
 import plotly.express as px
 
-# Initialize Dash app
+# Inicializamos la app
 app = dash.Dash(__name__, suppress_callback_exceptions=True)
 app.title = "Sales Analytics Dashboard"
 
